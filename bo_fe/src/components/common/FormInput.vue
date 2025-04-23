@@ -38,7 +38,7 @@ const inputValue = computed({
       :type="type"
       :placeholder="placeholder"
       :aria-label="label || placeholder"
-      class="input input-bordered input-primary w-full input-xl rounded-xl border-transparent bg-stone-700 focus:outline-neutral-400 focus:ring-0"
+      class="input input-bordered input-primary w-full input-xl rounded-xl border-transparent bg-neutral-700 focus:outline-neutral-400 focus:ring-0"
     />
   </div>
 </template>
